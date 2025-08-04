@@ -3,3 +3,20 @@ header{
     background-size: cover;
     background-position: center center;
 }
+.title h2{
+    font-size: 80px;
+    font-weight: bold;
+    color: gray;
+    letter-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#about{
+    background-image: url(../images/light_dot.jpg);
+}
